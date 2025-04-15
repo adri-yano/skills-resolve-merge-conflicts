@@ -1,3 +1,5 @@
+<title>SKILLS TO MERGE CONFLICTS</title>
+
 <header>
 
 <!--
