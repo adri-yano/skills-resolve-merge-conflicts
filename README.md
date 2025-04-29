@@ -19,7 +19,7 @@ _Learn why conflicts happen and how to resolve them._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
-
+<body>
 ## Finish
 
 _Congratulations friend, you've completed this course!_
@@ -39,7 +39,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
+</body>
 <footer>
 
 <!--
